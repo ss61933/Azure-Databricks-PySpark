@@ -1,0 +1,5 @@
+Here we create Azure gen 2 storage account ADLS . 
+Which is personal account ..
+
+Storage account created with Azure data bricks service gets deleted if that resoruce group is deleted and hence we are creating 
+seperate storage account here 
